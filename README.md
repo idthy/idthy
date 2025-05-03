@@ -22,14 +22,14 @@ Me chamo Thays Barbosa, tenho 19 anos e sou natural de Pernambuco. Atualmente es
         <img 
             alt="Thays Barbosa no LinkedIn" 
             title="Me siga no LinkedIn" 
-           src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+           src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white""
         />
     </a>
    <a href = "mailto:bthays351@gmail.com">
         <img 
             alt="Thays Barbosa no e-mail" 
             title="Me contate por e-mail" 
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white""
         />
     </a>
 </p>
